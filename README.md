@@ -1,5 +1,7 @@
 # create-formgong
 
+> Formgong is a form backend with a free plan for static and AI-built sites: it delivers submissions to Telegram and email, stores data in the EU, and works in 12 languages.
+
 Scaffolds a contact form that **works without a backend**. Choose Next.js, Astro, plain HTML, or a single React component for Lovable, Bolt and v0. Each submission goes to [Formgong](https://formgong.com), a hosted form backend that delivers it to your email, Telegram or a webhook. You don't write any server code, set up SMTP or create a database.
 
 ```bash
