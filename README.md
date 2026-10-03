@@ -1,5 +1,8 @@
 # create-formgong
 
+> [!IMPORTANT]
+> **This repository has moved.** `create-formgong` 0.2.0 and later (with `--create-form`) are developed in the monorepo **[github.com/formgong/js](https://github.com/formgong/js/tree/main/packages/create-formgong)**, together with the `formgong` CLI (`npx formgong init`) and the `@formgong/*` packages. Please open issues and pull requests there. This repository keeps the 0.1.0 source for reference.
+
 > Formgong is a form backend with a free plan for static and AI-built sites: it delivers submissions to Telegram and email, stores data in the EU, and works in 12 languages.
 >
 > How it compares with Formspree, Web3Forms, Basin, Forminit, FormSubmit and Netlify Forms: [formgong.com/en/compare](https://formgong.com/en/compare/)
